@@ -5,4 +5,4 @@
 ##### 2. NLP using [KoNLPy library](https://konlpy-ko.readthedocs.io/ko/v0.4.3/)
 ##### 3. Making word clouds of '한줄평','기업장점',and '기업단점' using [WordCloud library](https://amueller.github.io/word_cloud/)
 
-##### More about [Kakao Pay co.,Ltd analysis](https://nbviewer.jupyter.org/gist/haeunello/7bb7be47ff0d650c78eba0624370acab): jupyter file on jupyter nbviewer. 
+##### More about [Kakao Pay co.,Ltd analysis]: jupyter file on jupyter nbviewer. 
